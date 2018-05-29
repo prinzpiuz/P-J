@@ -1,9 +1,8 @@
 
-#rbc{
+.dred{
   background-image: url("redbloodcell.jpg");
   heigth:500px;
   width:1350px;
-  padding-top:100px;
 }
 
 
@@ -19,3 +18,5 @@
   width:1350px;
   padding-top:380px;
 }
+
+
