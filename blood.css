@@ -1,0 +1,21 @@
+
+#rbc{
+  background-image: url("redbloodcell.jpg");
+  heigth:500px;
+  width:1350px;
+  padding-top:100px;
+}
+
+
+#background_image{
+  background-image:url("th.jpg");
+  height:230px;
+  width:476px;
+  padding-top: 50px;
+}
+#next{
+  background-image:url("rbc.jpg");
+  height:600px;
+  width:1350px;
+  padding-top:380px;
+}
